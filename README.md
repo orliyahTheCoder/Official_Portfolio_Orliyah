@@ -6,7 +6,8 @@ A modern, interactive portfolio website built with React and Vite, featuring imm
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-WebGL-000000?style=for-the-badge&logo=three.js)](https://threejs.org/)
 
-<img width="1280" height="6998" alt="screencapture-orliyah-portfolio-netlify-app-2025-08-26-13_47_29" src="https://github.com/user-attachments/assets/f385707c-24a6-41fb-837b-ca2549e39bf3" />
+<img width="1278" height="626" alt="Screenshot 2025-08-26 at 13 50 33" src="https://github.com/user-attachments/assets/3edece71-8ed6-4d4c-9d20-8a156cf250cf" />
+
 
 
 ## ✨ Highlights
